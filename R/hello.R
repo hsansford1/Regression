@@ -18,5 +18,6 @@ hello <- function() {
 }
 
 practise <- function(){
-  print("I am practising")
+  print("I am practising!")
 }
+ # Just some comment
